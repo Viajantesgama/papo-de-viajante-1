@@ -9,7 +9,7 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/gamaleao/conference-masters/
+$ git clone https://github.com/LucasSchiavo/papo-de-viajante/
 
 # Go into the repository
 $ cd conference-masters
