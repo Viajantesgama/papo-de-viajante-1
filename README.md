@@ -12,7 +12,7 @@
 $ git clone https://github.com/LucasSchiavo/papo-de-viajante/
 
 # Go into the repository
-$ cd conference-masters
+$ cd papo-de-viajante
 
 ```
 
