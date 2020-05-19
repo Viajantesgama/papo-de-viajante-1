@@ -1,0 +1,99 @@
+.container h1 {
+    color: #FFA630;
+    font: Bold Italic 25px/35px Trump Soft Pro;
+    letter-spacing: 0px;
+    font-size: 23px;
+    opacity: 1;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.container h2 {
+    color: #FFA630;
+    font: Bold Italic 25px/35px Trump Soft Pro;
+    letter-spacing: 0px;
+    font-size: 23px;
+    opacity: 1;
+    text-transform: uppercase;
+    
+}
+
+.date {
+    background: transparent linear-gradient(180deg, #FFB547 0%, #EB3C73 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border-radius: 0px 0px 200px 186px;
+    -moz-border-radius: 0px 0px 200px 186px;
+    -webkit-border-radius: 0px 0px 200px 186px;
+    border: 0px solid #000000;
+}
+
+.date h1 {
+    font: Bold Italic 28px/10px Trump Soft Pro;
+    
+    color: #FFFFFF;
+    opacity: 1;
+    text-align: center;
+    margin-top: 35px;
+    padding-bottom: 25px;
+    text-transform: uppercase;
+}
+
+.date h2 {
+    font: Bold Italic 28px/10px Trump Soft Pro;
+    
+    color: #FFFFFF;
+    opacity: 1;
+    text-align: center;
+    margin-top: 15px;
+    padding-bottom: 40px;
+    text-transform: uppercase;
+}
+
+.button {
+    text-align: center;
+    margin-bottom: 40px;
+    
+}
+
+button {
+    color: #EB3C73;
+    background-color: #FFFFFF;
+    font-size: 15px;
+    width: 50%;
+    border-radius: 15px;
+    text-transform: uppercase;
+    padding: 5px;
+    font-weight: bold;
+    border: 0;
+}
+
+section img {
+    width: 40%;
+    margin-top: -25px;
+    margin-left: -15px;
+    
+}
+
+ h3 {
+    text-align: center;
+    font: Bold Italic 28px/10px Trump Soft Pro;
+    margin-bottom: 30px;
+}
+
+.images {
+    margin-top: 20px;
+}
+
+.images-1 {
+    margin-top: 25px;
+}
+
+.images-1 img {
+    width: 70%;
+    
+}
+
+.images img{
+    width: 50%;
+    
+}
