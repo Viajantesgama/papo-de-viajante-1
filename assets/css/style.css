@@ -1,4 +1,4 @@
-.container h1 {
+/*.container h1 {
     color: #FFA630;
     font: Bold Italic 25px/35px Trump Soft Pro;
     letter-spacing: 0px;
@@ -16,6 +16,18 @@
     opacity: 1;
     text-transform: uppercase;
     
+}*/
+
+.container-2 h1 {
+    color: #FFA630;
+    font: Bold Normal 25px/35px Trump Soft Pro;
+    letter-spacing: 0px;
+    font-size: 20px;
+    opacity: 1;
+    text-transform: uppercase;
+    margin-top: 20px;
+    text-align: center;
+    
 }
 
 .date {
@@ -25,21 +37,22 @@
     -moz-border-radius: 0px 0px 200px 186px;
     -webkit-border-radius: 0px 0px 200px 186px;
     border: 0px solid #000000;
+    
 }
 
 .date h1 {
-    font: Bold Italic 28px/10px Trump Soft Pro;
+    font: Bold Normal 28px/10px Trump Soft Pro;
     
     color: #FFFFFF;
     opacity: 1;
     text-align: center;
     margin-top: 35px;
-    padding-bottom: 25px;
+    padding-bottom: 20px;
     text-transform: uppercase;
 }
 
 .date h2 {
-    font: Bold Italic 28px/10px Trump Soft Pro;
+    font: Bold Normal 28px/10px Trump Soft Pro;
     
     color: #FFFFFF;
     opacity: 1;
@@ -78,6 +91,7 @@ section img {
     text-align: center;
     font: Bold Italic 28px/10px Trump Soft Pro;
     margin-bottom: 30px;
+    margin-top: 15px;
 }
 
 .images {
@@ -95,5 +109,100 @@ section img {
 
 .images img{
     width: 50%;
+    
+}
+
+/*.background {
+    top: 924px;
+    left: -1px;
+    width: 100%;
+    height: 100%;
+    background: transparent url(../images/Background-bloco2.png) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}*/
+
+.background {
+    background: transparent linear-gradient(180deg, #FFB547 0%, #EB3C73 100%) 0% 0% no-repeat padding-box;
+    border-radius: 71px 71px 71px 71px;
+    -moz-border-radius: 71px 71px 71px 71px;
+    -webkit-border-radius: 71px 71px 71px 71px;
+    border: 0px solid #000000;
+    padding: 100px;
+    width: 80%;
+    margin-top: 70px;
+    margin-left: 120px;
+    text-align: center;
+}
+
+.background h4 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    margin-top: -40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.background p {
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+
+.section {
+    margin-left: 60px;
+}
+
+.form-group {
+    width: 100%;
+}
+
+form {
+    margin-top: 70px;
+    margin-left: 100px;
+    width: 50%;
+}
+
+form label {
+    color: #8371AE;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group input[type="number"] {
+    border-radius: 15px;
+    
+}
+
+.form-group button {
+    border-radius: 15px;
+    
+}
+
+.live {
+    font-size: 37px;
+    border: 1px solid red;
+    margin-top: 60px;
+    width: 100%;
+    text-align: center;
+    color: #8371AE;
+    border-radius: 15px;
+}
+
+.container img {
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+
+.button-1 {
+    text-align: center;
+    color: white;
+    background-color: #ED506A;
     
 }
