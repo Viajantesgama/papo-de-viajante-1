@@ -206,3 +206,67 @@ form label {
     background-color: #ED506A;
     
 }
+
+#tempo {
+    font-size: 50px;
+    
+    text-align: center;
+    border-radius: 15px;
+    width: 100%;
+    color: white;
+    background: linear-gradient(45deg, rgba(23,23,24,1) 0%, rgba(232,230,146,1) 83%);
+    
+}
+
+.contagem {
+    font-size: 30px; 
+    text-align: center; 
+    margin-top: 15px; 
+    color: #FFA630;
+    text-transform: uppercase;
+    
+}
+
+footer {
+    background-color: #ED506A;
+    margin-top: 30px;
+    color: white;
+    font-size: 20px;
+    height: 50px;
+    
+}
+
+.paragrafo {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin-top: 30px;
+    font-style: italic;
+    
+}
+
+@media(max-width: 992px) {
+    .date h1 {
+        
+    }
+
+    .background {
+        text-align: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .date h1 {
+        
+    }
+}
+
+@media (max-width: 580px) {
+    .date h1 {
+       
+    }
+
+    .background {
+        
+    }
+}
