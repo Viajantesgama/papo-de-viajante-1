@@ -251,7 +251,7 @@ footer {
     }
 
     .background {
-        text-align: center;
+       
     }
 }
 
@@ -263,10 +263,15 @@ footer {
 
 @media (max-width: 580px) {
     .date h1 {
-       
+       line-height: 1em;
+    }
+
+    .date h2 {
+        line-height: 1em;
     }
 
     .background {
-        
+        width: 100%;
+        align-items: center;
     }
 }
