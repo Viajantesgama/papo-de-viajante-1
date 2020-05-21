@@ -259,6 +259,10 @@ footer {
     .date h1 {
         
     }
+
+    .button-1 {
+        width: 100%;
+    }
 }
 
 @media (max-width: 580px) {
@@ -273,5 +277,22 @@ footer {
     .background {
         width: 100%;
         align-items: center;
+        position: relative;
+        margin-left: 15px;
+    }
+
+    .button-1 {
+        width: 100%;
+    }
+
+    .button {
+        width: 100%;
+    }
+}
+
+@media (max-width: 450px) {
+    .button {
+        width: 100%;
+        margin: 0 auto;
     }
 }
