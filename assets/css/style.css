@@ -298,8 +298,11 @@ footer {
     .button {
         width: 100%;
         margin: 0 auto;
-        display: grid;
-        position: relative;
         font-size: 10px;
+    }
+
+    .button button {
+        width: 100%;
+        margin-bottom: 10px;
     }
 }
